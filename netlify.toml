@@ -8,3 +8,7 @@
 [dev]
   # Local dev command. A.k.a npm start
   command = "react-scripts start"
+
+
+[template.environment]
+  FAUNADB_SECRET = 'fnAEwfFDlAAAUlcHQC1fitBQStbw6j-5pfnbONXZ'
